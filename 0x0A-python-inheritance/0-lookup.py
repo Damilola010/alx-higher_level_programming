@@ -1,4 +1,5 @@
-s module returns a list object"""
+#!/usr/bin/python3
+"""this module returns a list object"""
 
 
 
